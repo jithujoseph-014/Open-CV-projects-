@@ -39,5 +39,3 @@ Install the required modules
 –> pip install opencv-python
 
 –> pip install mediapipe
-
-First, let us check for the working of the webcam.
